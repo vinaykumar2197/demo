@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  {
+  "login": {
+    "status": true,
+    "username": "rajesh",
+    "password": "123"
   }
+}
 }
