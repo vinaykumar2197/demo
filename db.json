@@ -25,8 +25,7 @@
     
   }
 },
-  
-  "bot_list_details": [
+"bot_list_details": [
      { "bot_id": "1",  "bot_name": "Fluent Bot 1" , "bot_desc": "Desc 1", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
      { "bot_id": "2",  "bot_name": "fluent Bot 2" , "bot_desc": "Desc 2", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
      { "bot_id": "3",  "bot_name": "Fluent Bot 3" , "bot_desc": "Desc 3", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
