@@ -24,5 +24,13 @@
     "user_profile_image": "https://en.wikipedia.org/wiki/Bryan_Cranston#/media/File:Bryan_Cranston_at_the_2018_Berlin_Film_Festival_(2).jpg"
     
   }
-}
+},
+  
+  "bot_list_details": [
+     { "bot_id": "1",  "bot_name": "Fluent Bot 1" , "bot_desc": "Desc 1", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
+     { "bot_id": "2",  "bot_name": "fluent Bot 2" , "bot_desc": "Desc 2", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
+     { "bot_id": "3",  "bot_name": "Fluent Bot 3" , "bot_desc": "Desc 3", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
+     { "bot_id": "4",  "bot_name": "Fluent Bot 4" , "bot_desc": "Desc 4", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
+     { "bot_id": "5",  "bot_name": "Fluent Bot 5" , "bot_desc": "Desc 5", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
+]
 }
