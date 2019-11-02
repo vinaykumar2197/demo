@@ -26,18 +26,18 @@
   }
 },
 "bot_list_details": [
-     { "bot_id": "1",  "bot_name": "Fluent Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "2",  "bot_name": "Friend Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "3",  "bot_name": "Colleague Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "4",  "bot_name": "Interviewer Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "5",  "bot_name": "Cousin Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "6",  "bot_name": "Uncle Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "7",  "bot_name": "Aunt Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "8",  "bot_name": "Mom Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "9",  "bot_name": "Dad Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "10",  "bot_name": "Spell Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "11",  "bot_name": "Translate Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "12",  "bot_name": "Word Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"},
-     { "bot_id": "13",  "bot_name": "Grammer Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "http://www.gstatic.com/tv/thumb/persons/164311/164311_v9_bb.jpg"}
+     { "bot_id": "1",  "bot_name": "Fluent Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1786/1786548.png"},
+     { "bot_id": "2",  "bot_name": "Friend Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1156/1156419.png"},
+     { "bot_id": "3",  "bot_name": "Colleague Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1587/1587565.png"},
+     { "bot_id": "4",  "bot_name": "Interviewer Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1043/1043690.png"},
+     { "bot_id": "5",  "bot_name": "Cousin Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1533/1533105.png"},
+     { "bot_id": "6",  "bot_name": "Uncle Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1786/1786548.png"},
+     { "bot_id": "7",  "bot_name": "Aunt Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1156/1156419.png"},
+     { "bot_id": "8",  "bot_name": "Mom Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1587/1587565.png"},
+     { "bot_id": "9",  "bot_name": "Dad Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1043/1043690.png"},
+     { "bot_id": "10",  "bot_name": "Spell Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1533/1533105.png"},
+     { "bot_id": "11",  "bot_name": "Translate Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1786/1786548.png"},
+     { "bot_id": "12",  "bot_name": "Word Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1156/1156419.png"},
+     { "bot_id": "13",  "bot_name": "Grammer Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1587/1587565.png"}
 ]
 }
