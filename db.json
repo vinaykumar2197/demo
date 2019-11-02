@@ -1,5 +1,5 @@
 {
-  "otp_verififcation": {
+  "otp_verification": {
   "status":true,
   "message":"otp api hit",
   "data": {
