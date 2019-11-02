@@ -39,5 +39,14 @@
      { "bot_id": "11",  "bot_name": "Translate Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1786/1786548.png"},
      { "bot_id": "12",  "bot_name": "Word Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1156/1156419.png"},
      { "bot_id": "13",  "bot_name": "Grammer Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1587/1587565.png"}
-]
+],
+
+  "login_details": {
+  "status":true,
+  "message":"login api hit",
+  "created_at":"22 OCT 2019",
+  "modified_at":"02 NOV 2019",
+  "data": {
+   }
+  }
 }
