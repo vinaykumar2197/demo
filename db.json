@@ -31,8 +31,6 @@
 "login_details": {
   "status":true,
   "message":"login api hit",
-  "created_at":"22 OCT 2019",
-  "modified_at":"02 NOV 2019",
   "data": {
    }
 }
