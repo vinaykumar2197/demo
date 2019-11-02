@@ -33,5 +33,20 @@
   "message":"login api hit",
   "data": {
    }
-}
+},
+"otp_verififcation": {
+  "status":true,
+  "message":"otp api hit",
+  "data": {
+    "user_id": "169",
+    "user_mobile_number": "+91 1234567890",
+    "user_name": "Bryan ",
+    "user_email": "bryan@ufaber.com",
+    "user_native_language": "english",
+    "user_age": "22",
+    "user_gender": "male",
+    "user_occupation": "software engineer",
+    "user_profile_image": "https://en.wikipedia.org/wiki/Bryan_Cranston#/media/File:Bryan_Cranston_at_the_2018_Berlin_Film_Festival_(2).jpg"
+   }
+}  
 }
