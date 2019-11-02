@@ -5,12 +5,12 @@
   "data": {
     "user_id": "169",
     "user_mobile_number": "+91 1234567890",
-    "user_name": "Bryan ",
+    "user_name": " ",
     "user_email": "bryan@ufaber.com",
-    "user_native_language": "Hindi",
-    "user_age": "22",
-    "user_gender": "male",
-    "user_occupation": "SDE",
+    "user_native_language": "",
+    "user_age": "",
+    "user_gender": "",
+    "user_occupation": "",
     "user_profile_image": "https://en.wikipedia.org/wiki/Bryan_Cranston#/media/File:Bryan_Cranston_at_the_2018_Berlin_Film_Festival_(2).jpg"
  }
 },
