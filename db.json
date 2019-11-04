@@ -34,5 +34,11 @@
   "message":"login api hit",
   "data": {
    }
-}
+},
+"user_onboard": {
+  "status":true,
+  "message":"user onboard api hit",
+  "data": {
+   }
+}  
 }
