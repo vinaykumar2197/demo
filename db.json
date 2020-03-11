@@ -129,6 +129,51 @@
             "klub_type":"waitlist"
         }
         ]
+},
+"book_class":{
+    "status":"success",
+    "message":"fetched data",
+    "data":{
+        "learning_objectives":{
+            "learning_title":"What you will learn",
+             "learning_desc":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit."
+        },
+        "materials_needed":[
+            {
+                "material_image":"https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+                "material_name":"Lorem"
+            },
+            {
+                "material_image":"https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+                "material_name":"Lorem"
+            },
+            {
+                 "material_image":"https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+                "material_name":"Lorem"
+            }
+            ],
+        "how_it_works":{
+            "hiw_title":"",
+            "hiw_data":[
+                {
+                 "hiw_id":"#1",
+                 "hiw_title":"Book 2 Trial Classes for FREE!",
+                 "hiw_desc":"Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
+                },
+                {
+                 "hiw_id":"#1",
+                 "hiw_title":"Book 2 Trial Classes for FREE!",
+                 "hiw_desc":"Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
+                },
+                {
+                 
+                 "hiw_id":"#1",
+                 "hiw_title":"Book 2 Trial Classes for FREE!",
+                 "hiw_desc":"Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
+                }
+                ]
+        }
+    }
 }
 
 }
