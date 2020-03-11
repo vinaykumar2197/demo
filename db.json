@@ -1,44 +1,47 @@
 {
-  "otp_verification": {
-  "status":true,
-  "message":"otp api hit",
-  "data": {
-    "user_id": "169",
-    "user_mobile_number": "+91 1234567890",
-    "user_name": "",
-    "user_email": "bryan@ufaber.com",
-    "user_native_language": "",
-    "user_age": "",
-    "user_gender": "",
-    "user_occupation": "",
-    "user_profile_image": "https://en.wikipedia.org/wiki/Bryan_Cranston#/media/File:Bryan_Cranston_at_the_2018_Berlin_Film_Festival_(2).jpg"
- }
-},
-"bot_list_details": [
-     { "bot_id": "1",  "bot_name": "Fluent Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1786/1786548.png"},
-     { "bot_id": "2",  "bot_name": "Friend Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1156/1156419.png"},
-     { "bot_id": "3",  "bot_name": "Colleague Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1587/1587565.png"},
-     { "bot_id": "4",  "bot_name": "Interviewer Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1043/1043690.png"},
-     { "bot_id": "5",  "bot_name": "Cousin Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1533/1533105.png"},
-     { "bot_id": "6",  "bot_name": "Uncle Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1786/1786548.png"},
-     { "bot_id": "7",  "bot_name": "Aunt Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1156/1156419.png"},
-     { "bot_id": "8",  "bot_name": "Mom Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1587/1587565.png"},
-     { "bot_id": "9",  "bot_name": "Dad Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1043/1043690.png"},
-     { "bot_id": "10",  "bot_name": "Spell Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1533/1533105.png"},
-     { "bot_id": "11",  "bot_name": "Translate Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1786/1786548.png"},
-     { "bot_id": "12",  "bot_name": "Word Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1156/1156419.png"},
-     { "bot_id": "13",  "bot_name": "Grammer Bot" , "bot_desc": "Click here to start chatting", "bot_profile_pic": "https://image.flaticon.com/icons/png/512/1587/1587565.png"}
-],
-"login_details": {
-  "status":true,
-  "message":"login api hit",
-  "data": {
-   }
-},
-"user_onboard": {
-  "status":true,
-  "message":"user onboard api hit",
-  "data": {
-   }
-}  
+  "home_page": {
+    "status":"success",
+    "message":"fetched data",
+    "data":{
+        "header":"Why Realschool KLUB",
+        "description":"5 reasons your child and you should be part of the KLUB",
+        "membership_list":[
+         {
+            "member_id":"#1",
+            "member_title":"One Membership",
+            "member_description":"Lorem ipsum"
+         }   ,
+         {
+            "member_id":"#1",
+            "member_title":"One Membership",
+            "member_description":"Lorem ipsum"
+         },
+         {
+            "member_id":"#1",
+            "member_title":"One Membership",
+            "member_description":"Lorem ipsum"
+         }
+         ],
+         "offers_list":[
+         {
+            "offer_banner":"#1",
+            "offer_text":"One Membership",
+            "offer_type":"Lorem ipsum"
+         }   ,
+         {
+            "offer_banner":"#1",
+            "offer_text":"One Membership",
+            "offer_type":"Lorem ipsum"
+         },
+         {
+            "offer_banner":"#1",
+            "offer_text":"One Membership",
+            "offer_type":"Lorem ipsum",
+            "offer_video":""
+         }
+         ]
+        
+    }
+}
+
 }
