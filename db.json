@@ -102,13 +102,31 @@
     "message":"fetched data",
     "data":[
         {
-            "klub_video_link":"",
-            "klub_video_thumbnail":"",
-            "klub_subject":"",
-            "klub_age":"",
-            "klub_time":"",
-            "klub_button_text":"",
-            "klub_type":""
+            "klub_video_link":"https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+            "klub_video_thumbnail":"https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+            "klub_subject":"science",
+            "klub_age":"12",
+            "klub_time":"11.00 am - 11.45 am",
+            "klub_button_text":"BOOK NOW",
+            "klub_type":"book_now"
+        },
+        {
+            "klub_video_link":"https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+            "klub_video_thumbnail":"https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+            "klub_subject":"science",
+            "klub_age":"12",
+            "klub_time":"11.00 am - 11.45 am",
+            "klub_button_text":"3 Seats left",
+            "klub_type":"left"
+        },
+        {
+            "klub_video_link":"https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+            "klub_video_thumbnail":"https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+            "klub_subject":"science",
+            "klub_age":"12",
+            "klub_time":"11.00 am - 11.45 am",
+            "klub_button_text":"Join WAITIST (3)",
+            "klub_type":"waitlist"
         }
         ]
 }
