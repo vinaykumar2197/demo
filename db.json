@@ -105,7 +105,8 @@
 				"klub_time": "11.00 am - 11.45 am",
 				"klub_button_text": "BOOK NOW",
 				"klub_type": "book_now",
-				"klub_color": "0xffFFE6AC",
+				"klub_background_color": "0xffFFE6AC",
+				"klub_button_color": "0xffEE3F5A",
 				"klub_desc": "TEST 123"
 			},
 			{
@@ -116,7 +117,8 @@
 				"klub_time": "11.00 am - 11.45 am",
 				"klub_button_text": "3 Seats left",
 				"klub_type": "left",
-				"klub_color": "0xffFFE6AC",
+				"klub_background_color": "0xffE1FFDC",
+				"klub_button_color": "0xffEE3F5A",
 				"klub_desc": "TEST 123"
 			},
 			{
@@ -127,7 +129,8 @@
 				"klub_time": "11.00 am - 11.45 am",
 				"klub_button_text": "Join WAITIST (3)",
 				"klub_type": "waitlist",
-				"klub_color": "0xffFFE6AC",
+				"klub_background_color": "0xffDAFFFF",
+				"klub_button_color": "0xff8A7D8C",
 				"klub_desc": "TEST 123"
 			}
 		]
