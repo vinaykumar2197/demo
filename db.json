@@ -107,7 +107,9 @@
           "klub_age": "12",
           "klub_time": "11.00 am - 11.45 am",
           "klub_button_text": "BOOK NOW",
-          "klub_type": "book_now"
+          "klub_type": "book_now",
+          "klub_color":"0xffFFE6AC",
+          "klub_desc":"TEST 123"
         },
         {
           "klub_video_link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
@@ -116,7 +118,9 @@
           "klub_age": "12",
           "klub_time": "11.00 am - 11.45 am",
           "klub_button_text": "3 Seats left",
-          "klub_type": "left"
+          "klub_type": "left",
+          "klub_color":"0xffFFE6AC",
+          "klub_desc":"TEST 123"
         },
         {
           "klub_video_link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
@@ -125,7 +129,10 @@
           "klub_age": "12",
           "klub_time": "11.00 am - 11.45 am",
           "klub_button_text": "Join WAITIST (3)",
-          "klub_type": "waitlist"
+          "klub_type": "waitlist",
+          "klub_color":"0xffFFE6AC",
+          "klub_desc":"TEST 123"
+        },
         }
       ]
     },
