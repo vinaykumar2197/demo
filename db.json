@@ -24,14 +24,14 @@
         ],
         "offers_list": [
           {
-            "offer_banner": "#1",
+            "offer_banner": "https://my-json-server.typicode.com/vinaykumar2197/demo/home_page",
             "offer_text_title": "One Membership",
             "offer_text_desc": "One Membership",
             "offer_color": "0xffFFE6AC",
             "offer_type": "standard"
           },
           {
-            "offer_banner": "#1",
+            "offer_banner": "https://my-json-server.typicode.com/vinaykumar2197/demo/home_page",
             "offer_text_title": "One Membership",
             "offer_text_desc": "One Membership",
             "offer_color": "0xffDCEBF5",
@@ -52,14 +52,14 @@
             "offer_type": "standard"
           },
           {
-            "offer_banner": "#1",
+            "offer_banner": "https://my-json-server.typicode.com/vinaykumar2197/demo/home_page",
             "offer_text_title": "One Membership",
             "offer_text_desc": "One Membership",
             "offer_color": "0xffDCEBF5",
             "offer_type": "standard"
           },
           {
-            "offer_banner": "#1",
+            "offer_banner": "https://my-json-server.typicode.com/vinaykumar2197/demo/home_page",
             "offer_text_title": "One Membership",
             "offer_text_desc": "One Membership",
             "offer_color": "0xffFFFFFF",
@@ -73,21 +73,21 @@
             "offer_type": "text"
           },
           {
-            "offer_banner": "#1",
+            "offer_banner": "https://my-json-server.typicode.com/vinaykumar2197/demo/home_page",
             "offer_text_title": "One Membership",
             "offer_text_desc": "One Membership",
             "offer_color": "0xffEDF2FF",
             "offer_type": "video"
           },
           {
-            "offer_banner": "#1",
+            "offer_banner": "https://my-json-server.typicode.com/vinaykumar2197/demo/home_page",
             "offer_text_title": "One Membership",
             "offer_text_desc": "One Membership",
             "offer_color": "0xffFFE6AC",
             "offer_type": "standard"
           },
           {
-            "offer_banner": "#1",
+            "offer_banner": "https://my-json-server.typicode.com/vinaykumar2197/demo/home_page",
             "offer_text_title": "One Membership",
             "offer_text_desc": "One Membership",
             "offer_color": "0xffFFCCCC",
