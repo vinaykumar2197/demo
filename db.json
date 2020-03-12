@@ -1,203 +1,198 @@
 {
-    "home_page": {
-      "status": "success",
-      "message": "fetched data",
-      "data": {
-        "header": "Why Realschool KLUB back",
-        "description": "5 reasons your child and you should be part of the KLUB back",
-        "membership_list": [
-          {
-            "member_id": "#1",
-            "member_title": "One Membership",
-            "member_description": "Lorem ipsum"
-          },
-          {
-            "member_id": "#1",
-            "member_title": "One Membership",
-            "member_description": "Lorem ipsum"
-          },
-          {
-            "member_id": "#1",
-            "member_title": "One Membership",
-            "member_description": "Lorem ipsum"
-          }
-        ],
-        "offers_list": [
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffFFE6AC",
-            "offer_type": "standard"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffDCEBF5",
-            "offer_type": "standard"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffC9FFC0",
-            "offer_type": "button"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xff9BEAEA",
-            "offer_type": "standard"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffDCEBF5",
-            "offer_type": "standard"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffFFFFFF",
-            "offer_type": "standard"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffFFFFFF",
-            "offer_type": "text"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffEDF2FF",
-            "offer_type": "video"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffFFE6AC",
-            "offer_type": "standard"
-          },
-          {
-            "offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
-            "offer_text_title": "One Membership",
-            "offer_text_desc": "One Membership",
-            "offer_color": "0xffFFCCCC",
-            "offer_type": "standard"
-          }
-        ]
-      }
-    },
-    "klub_calendar": {
-      "status": "success",
-      "message": "fetched data",
-      "data": [
-        {
-          "klub_video_link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
-          "klub_video_thumbnail": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
-          "klub_subject": "science",
-          "klub_age": "12",
-          "klub_time": "11.00 am - 11.45 am",
-          "klub_button_text": "BOOK NOW",
-          "klub_type": "book_now",
-          "klub_color":"0xffFFE6AC",
-          "klub_desc":"TEST 123"
-        },
-        {
-          "klub_video_link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
-          "klub_video_thumbnail": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
-          "klub_subject": "science",
-          "klub_age": "12",
-          "klub_time": "11.00 am - 11.45 am",
-          "klub_button_text": "3 Seats left",
-          "klub_type": "left",
-          "klub_color":"0xffFFE6AC",
-          "klub_desc":"TEST 123"
-        },
-        {
-          "klub_video_link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
-          "klub_video_thumbnail": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
-          "klub_subject": "science",
-          "klub_age": "12",
-          "klub_time": "11.00 am - 11.45 am",
-          "klub_button_text": "Join WAITIST (3)",
-          "klub_type": "waitlist",
-          "klub_color":"0xffFFE6AC",
-          "klub_desc":"TEST 123"
-        }
-      ]
-    },
-    "book_class": {
-      "status": "success",
-      "message": "fetched data",
-      "data": {
-        "learning_objectives": {
-          "learning_title": "What you will learn",
-          "learning_desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit."
-        },
-        "materials_needed": [
-          {
-            "material_image": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
-            "material_name": "Lorem"
-          },
-          {
-            "material_image": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
-            "material_name": "Lorem"
-          },
-          {
-            "material_image": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
-            "material_name": "Lorem"
-          }
-        ],
-        "how_it_works": {
-          "hiw_title": "",
-          "hiw_data": [
-            {
-              "hiw_id": "#1",
-              "hiw_title": "Book 2 Trial Classes for FREE!",
-              "hiw_desc": "Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
-            },
-            {
-              "hiw_id": "#1",
-              "hiw_title": "Book 2 Trial Classes for FREE!",
-              "hiw_desc": "Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
-            },
-            {
-              "hiw_id": "#1",
-              "hiw_title": "Book 2 Trial Classes for FREE!",
-              "hiw_desc": "Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
-            }
-          ]
-        }
-      }
-    },
-    "checkout_details": {
-      "status": "success",
-      "message": "fetched data",
-      "data": {
-        "unlimited_details": {
-          "un_title": "12 Months Unlimited",
-          "un_mrp": "` 9399/-",
-          "un_gst": "100/-",
-          "un_product_dis": "` 2000/-",
-          "un_total_amount": "` 7499/-"
-        },
-        "starting_details": {
-          "starting_title": "Starting from 22 Feb 2020",
-          "starting_desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut"
-        },
-        "benefits_details": {
-          "benefits_title": "Benefits",
-          "benefits_details": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy"
-        }
-      }
-    }
+	"home_page": {
+		"status": "success",
+		"message": "fetched data",
+		"data": {
+			"header": "Why Realschool KLUB back",
+			"description": "5 reasons your child and you should be part of the KLUB back",
+			"membership_list": [{
+					"member_id": "#1",
+					"member_title": "One Membership",
+					"member_description": "Lorem ipsum"
+				},
+				{
+					"member_id": "#1",
+					"member_title": "One Membership",
+					"member_description": "Lorem ipsum"
+				},
+				{
+					"member_id": "#1",
+					"member_title": "One Membership",
+					"member_description": "Lorem ipsum"
+				}
+			],
+			"offers_list": [{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffFFE6AC",
+					"offer_type": "standard"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffDCEBF5",
+					"offer_type": "standard"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffC9FFC0",
+					"offer_type": "button"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xff9BEAEA",
+					"offer_type": "standard"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffDCEBF5",
+					"offer_type": "standard"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffFFFFFF",
+					"offer_type": "standard"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffFFFFFF",
+					"offer_type": "text"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffEDF2FF",
+					"offer_type": "video"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffFFE6AC",
+					"offer_type": "standard"
+				},
+				{
+					"offer_banner": "https://image.shutterstock.com/z/stock-photo-mountains-during-sunset-beautiful-natural-landscape-in-the-summer-time-407021107.jpg",
+					"offer_text_title": "One Membership",
+					"offer_text_desc": "One Membership",
+					"offer_color": "0xffFFCCCC",
+					"offer_type": "standard"
+				}
+			]
+		}
+	},
+	"klub_calendar": {
+		"status": "success",
+		"message": "fetched data",
+		"data": [{
+				"klub_video_link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+				"klub_video_thumbnail": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+				"klub_subject": "science",
+				"klub_age": "12",
+				"klub_time": "11.00 am - 11.45 am",
+				"klub_button_text": "BOOK NOW",
+				"klub_type": "book_now",
+				"klub_color": "0xffFFE6AC",
+				"klub_desc": "TEST 123"
+			},
+			{
+				"klub_video_link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+				"klub_video_thumbnail": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+				"klub_subject": "science",
+				"klub_age": "12",
+				"klub_time": "11.00 am - 11.45 am",
+				"klub_button_text": "3 Seats left",
+				"klub_type": "left",
+				"klub_color": "0xffFFE6AC",
+				"klub_desc": "TEST 123"
+			},
+			{
+				"klub_video_link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+				"klub_video_thumbnail": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+				"klub_subject": "science",
+				"klub_age": "12",
+				"klub_time": "11.00 am - 11.45 am",
+				"klub_button_text": "Join WAITIST (3)",
+				"klub_type": "waitlist",
+				"klub_color": "0xffFFE6AC",
+				"klub_desc": "TEST 123"
+			}
+		]
+	},
+	"book_class": {
+		"status": "success",
+		"message": "fetched data",
+		"data": {
+			"learning_objectives": {
+				"learning_title": "What you will learn",
+				"learning_desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit."
+			},
+			"materials_needed": [{
+					"material_image": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+					"material_name": "Lorem"
+				},
+				{
+					"material_image": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+					"material_name": "Lorem"
+				},
+				{
+					"material_image": "https://image.shutterstock.com/image-photo/cropped-shot-thoughtful-young-man-600w-518953855.jpg",
+					"material_name": "Lorem"
+				}
+			],
+			"how_it_works": {
+				"hiw_title": "",
+				"hiw_data": [{
+						"hiw_id": "#1",
+						"hiw_title": "Book 2 Trial Classes for FREE!",
+						"hiw_desc": "Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
+					},
+					{
+						"hiw_id": "#1",
+						"hiw_title": "Book 2 Trial Classes for FREE!",
+						"hiw_desc": "Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
+					},
+					{
+						"hiw_id": "#1",
+						"hiw_title": "Book 2 Trial Classes for FREE!",
+						"hiw_desc": "Lorem ipsum dolor sit amet, consec sit amet ipsum dolor ipsum dolor."
+					}
+				]
+			}
+		}
+	},
+	"checkout_details": {
+		"status": "success",
+		"message": "fetched data",
+		"data": {
+			"unlimited_details": {
+				"un_title": "12 Months Unlimited",
+				"un_mrp": "` 9399/-",
+				"un_gst": "100/-",
+				"un_product_dis": "` 2000/-",
+				"un_total_amount": "` 7499/-"
+			},
+			"starting_details": {
+				"starting_title": "Starting from 22 Feb 2020",
+				"starting_desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut"
+			},
+			"benefits_details": {
+				"benefits_title": "Benefits",
+				"benefits_details": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy"
+			}
+		}
+	}
 }
