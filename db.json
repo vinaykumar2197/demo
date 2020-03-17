@@ -183,10 +183,10 @@
 		"data": {
 			"unlimited_details": {
 				"un_title": "12 Months Unlimited",
-				"un_mrp": "` 9399/-",
+				"un_mrp": "9399/-",
 				"un_gst": "100/-",
-				"un_product_dis": "` 2000/-",
-				"un_total_amount": "` 7499/-"
+				"un_product_dis": "2000/-",
+				"un_total_amount": "7499/-"
 			},
 			"starting_details": {
 				"starting_title": "Starting from 22 Feb 2020",
